@@ -54,10 +54,3 @@ void write_log(unsigned long now) {
   }
 }
 
-
-
-
-
-
-
-
